@@ -11,6 +11,8 @@
 		infantry = { x = 1 y = 1 }
 		infantry = { x = 1 y = 2 }
 		infantry = { x = 1 y = 3 }
+		infantry = { x = 0 y = 4 }
+		infantry = { x = 1 y = 4 }
 	}
 	support = {
   	      engineer = { x = 0 y = 0 }
@@ -18,7 +20,7 @@
 }
 division_template = {
 	name = "Divisão de Infantaria"		# Infantry Division
-	division_names_group = BRA_INF_02
+	division_names_group = BRA_INF_01
 
 	regiments = {
 		infantry = { x = 0 y = 0 }
