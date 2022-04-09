@@ -64,10 +64,10 @@ if = {
 set_country_flag = monroe_doctrine
 
 recruit_character = BRA_jota
+recruit_character = BRA_viera
+recruit_character = BRA_tuca
+recruit_character = BRA_diego
 recruit_character = BRA_getulio_vargas
-recruit_character = BRA_plinio_salgado
-recruit_character = BRA_luis_carlos_prestes
-recruit_character = BRA_armando_sales
 recruit_character = BRA_eurico_gaspar_dutra
 recruit_character = BRA_mascarenhas_de_morais
 recruit_character = BRA_augusto_rademaker
@@ -87,7 +87,6 @@ recruit_character = BRA_newton_cavalcanti
 recruit_character = BRA_afranio_de_mello_franco
 recruit_character = BRA_washington_luis_pereira
 recruit_character = BRA_osvaldo_aranha
-recruit_character = BRA_arlindo_veiga_dos_santos
 
 
 1939.1.1 = {

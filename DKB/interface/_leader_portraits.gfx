@@ -3297,23 +3297,18 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = GFX_portrait_BRA_arlindo_veiga_dos_santos
-		texturefile = "gfx/leaders/BRA/portrait_bra_arlindo_veiga_dos_santos.dds"
+		name = GFX_portrait_BRA_viera
+		texturefile = "gfx/leaders/BRA/Portrait_Brazil_viera.dds"
 	}
 
 	spriteType = {
-		name = GFX_portrait_BRA_plinio_salgado
-		texturefile = "gfx/leaders/BRA/Portrait_Brazil_Plinio_Salgado.dds"
+		name = GFX_portrait_BRA_tuca
+		texturefile = "gfx/leaders/BRA/Portrait_Brazil_tuca.dds"
 	}
 
 	spriteType = {
-		name = GFX_portrait_BRA_luis_carlos_prestes
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
-	}
-
-	spriteType = {
-		name = GFX_portrait_BRA_armando_sales
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
+		name = GFX_portrait_BRA_diego
+		texturefile = "gfx/leaders/BRA/Portrait_Brazil_diego.dds"
 	}
 
 	spriteType = {

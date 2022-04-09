@@ -1,18 +1,4 @@
 characters={
-	BRA_jota={
-		name=BRA_jota
-		portraits={
-			civilian={
-				large=GFX_portrait_BRA_jota
-			}
-		}
-		country_leader={
-			ideology=despotism
-			expire="1965.1.1.1"
-			id=-1
-		}
-	}
-
 	BRA_getulio_vargas={
 		name=BRA_getulio_vargas
 		portraits={
@@ -27,60 +13,61 @@ characters={
 		}
 	}
 
-	BRA_arlindo_veiga_dos_santos={
-		name=BRA_arlindo_veiga_dos_santos
+	BRA_jota={
+		name=BRA_jota
 		portraits={
 			civilian={
-				large=GFX_portrait_BRA_arlindo_veiga_dos_santos #Can become country leader later (via Portugal FT)
-			}
-		}
-		country_leader = {
-			expire = "1954.8.24"
-			ideology = despotism
-			id=-1
-			traits = {
-				staunch_monarchist
-			}
-		}
-	}
-	
-	BRA_plinio_salgado={
-		name=BRA_plinio_salgado
-		portraits={
-			civilian={
-				large=GFX_portrait_BRA_plinio_salgado
+				large=GFX_portrait_BRA_jota
 			}
 		}
 		country_leader={
-			ideology=fascism_ideology
+			ideology=oligarchism
+			traits = {economic_reformer, the_sacred_king}
 			expire="1965.1.1.1"
 			id=-1
 		}
 	}
 
-	BRA_luis_carlos_prestes={
-		name=BRA_luis_carlos_prestes
+	BRA_viera={
+		name=BRA_viera
 		portraits={
 			civilian={
-				large=GFX_portrait_BRA_luis_carlos_prestes
+				large=GFX_portrait_BRA_viera
 			}
 		}
 		country_leader={
 			ideology=marxism
+			traits = {dictator, militant_socialist}
 			expire="1965.1.1.1"
 			id=-1
 		}
 	}
 
-	BRA_armando_sales={
-		name=BRA_armando_sales
+	BRA_tuca={
+		name=BRA_tuca
 		portraits={
 			civilian={
-				large=GFX_portrait_BRA_armando_sales
+				large=GFX_portrait_BRA_tuca
+			}
+		}
+		country_leader={
+			ideology=rexism
+			traits = {nationalist_symbol, warmonger, great_war_hero}
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+	BRA_diego={
+		name=BRA_diego
+		portraits={
+			civilian={
+				large=GFX_portrait_BRA_diego
 			}
 		}
 		country_leader={
 			ideology=conservatism
+			traits = {anti_communist, dislikes_germany, captain_of_industry}
 			expire="1965.1.1.1"
 			id=-1
 		}
